@@ -13,4 +13,4 @@ a dll injector written in python 3.11.0
 ---
 # usage
 * option 1 - download .exe for latest release [here](https://github.com/meth1337/uselessinjector/releases/latest)
-* option 2 - `py injector.py`
+* option 2 - `pip install -r requirements.txt`, `py injector.py`
