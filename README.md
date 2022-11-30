@@ -11,6 +11,6 @@ a dll injector written in python 3.11.0
 ---
 ![injection failed](fail.png)
 ---
-#### usage
+# usage
 * option 1 - download .exe for latest release [here](https://github.com/meth1337/uselessinjector/releases/latest)
 * option 2 - `py injector.py`
